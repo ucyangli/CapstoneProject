@@ -1,0 +1,111 @@
+[{
+    "_id": "614c4d532ed0b2a0d2866bcf",
+    "email": "u3215496@uni.canberra.edu.au",
+    "name": "Yang Li",
+    "img": "./uploads/face",
+    "pjs": ["614c415526d5004d7271dd5c"],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "__v": 0,
+    "isCurrent": true
+}, {
+    "_id": "61545c086725536c9b8532f5",
+    "email": "damith.herath@uni.canberra.edu.au",
+    "name": "Damith Herath",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "Professor",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "61545c266725536c9b8532f8",
+    "email": "roland.geocke@unil.canberra.edu.au",
+    "name": "Roland Goecke",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "Professor",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "6155133fd833fb7429ad7b4c",
+    "email": "",
+    "name": "David Hinwood",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": ["6154676ad833fb7429ad7b1f"],
+    "role": "PhD",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "61551373d833fb7429ad7b5d",
+    "email": "",
+    "name": "Rizponhakol Baun",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": ["615514cbd833fb7429ad7b73"],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "61551382d833fb7429ad7b60",
+    "email": "",
+    "name": "Erica Soun",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "6155138fd833fb7429ad7b63",
+    "email": "",
+    "name": "Xiao Pan",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "615513a3d833fb7429ad7b66",
+    "email": "",
+    "name": "Amish Gounder",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "615514e3d833fb7429ad7b78",
+    "email": "",
+    "name": "Andrew Giumelli",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": ["61551537d833fb7429ad7b85"],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "615514f0d833fb7429ad7b7b",
+    "email": "",
+    "name": "Jiacheng Huang",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}, {
+    "_id": "615514fdd833fb7429ad7b7e",
+    "email": "",
+    "name": "Khalid Al Mugairn",
+    "img": "./uploads/face",
+    "pjs": [],
+    "leadpjs": [],
+    "role": "PostGraduate",
+    "isCurrent": true,
+    "__v": 0
+}]

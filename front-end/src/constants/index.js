@@ -1,0 +1,24 @@
+export const SET_PROJECT = 'SET_PROJECT';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const VIEW_PROJECT = 'VIEW_PROJECT';
+export const UPDATE_PROJECT = 'UPDATE_PROJECT';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
+
+export const SET_MEMBER = 'SET_MEMBER';
+export const ADD_MEMBER = 'ADD_MEMBER';
+export const VIEW_MEMBER = 'VIEW_MEMBER';
+export const UPDATE_MEMBER = 'UPDATE_MEMBER';
+export const DELETE_MEMBER = 'DELETE_MEMBER';
+
+export const SET_PARTNER = 'SET_PARTNER';
+export const ADD_PARTNER = 'ADD_PARTNER';
+export const VIEW_PARTNER = 'VIEW_PARTNER';
+export const UPDATE_PARTNER = 'UPDATE_PARTNER';
+export const DELETE_PARTNER = 'DELETE_PARTNER';
+
+export const SET_RESOURCE = 'SET_RESOURCE';
+export const ADD_RESOURCE = 'ADD_RESOURCE';
+export const VIEW_RESOURCE = 'VIEW_RESOURCE';
+export const UPDATE_RESOURCE = 'UPDATE_RESOURCE';
+export const DELETE_RESOURCE = 'DELETE_RESOURCE';
+
